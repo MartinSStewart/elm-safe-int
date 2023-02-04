@@ -1,3 +1,6 @@
+This is a republished version of `malaire/elm-safe-int` which has been deleted.
+This new package is unmaintained and is purely meant for unblocking people who depend on it.
+
 # elm-safe-int
 
 A safe 54-bit signed integer for use cases where normal `Int` isn't sufficient and 54-bit range will suffice.
